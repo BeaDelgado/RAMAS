@@ -9,8 +9,6 @@ package proyecto1;
  *
  * @author Admin
  */
-public class Proyecto1 {
-    public static void main(String []args){
-        System.out.println("Version 1.1");
-    }    
+public class NuevaClase {
+    
 }
